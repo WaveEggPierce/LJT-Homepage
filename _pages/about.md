@@ -5,11 +5,12 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
 ## Personal details
 
-I am **Junteng Liu**, a first-year PhD candidate in the [HKUST NLP Group](https://github.com/Vicent0205) at the Hong Kong University of Science and Technology. My research focuses on natural language processing and machine learning, with research interests in:
+I am **Junteng Liu**, a first-year PhD candidate in the HKUST NLP Group at the Hong Kong University of Science and Technology. My research focuses on natural language processing and machine learning, with research interests in:
 
 - LLM reasoning and reinforcement learning
 - Hallucination in Vision-Language Models (VLM)
